@@ -24,19 +24,17 @@
     <li><a href="#Brief-Overview">Brief Overview</a>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#한 것">한 </a></li>
-    <li><a href="#What I learned">What I Learned</a></li>
+    <li><a href="#E--R-Diagram">E-R Diagram</a></li>
+    <li><a href="#What-I-Learned">What I Learned</a></li>
   </ol>
 </details>
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- Brief Overview -->
+## Brief Overview
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+- 음악 스트리밍을 지원하는 웹기반 데이터베이스 응용 시스템 개발
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -52,23 +50,26 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+- [O] Conceptual design
+  - [O] E-R diagram
+  - [O] function, process specification
+- [O] Logical design
+  - [O] Relation specification
+  - [O] module specification
+- [O] System implementation
+  - [O] System test
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- E-R Diagram -->
+## E-R Diagram
+![E-R Diagram](https://user-images.githubusercontent.com/105041834/190562307-8ca7a7f2-a35f-45dc-ac3b-c33eb2ded76f.jpg)
 
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- WHAT I LEARNED -->
 ## Acknowledgments
 
 * []()
