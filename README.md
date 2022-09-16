@@ -25,6 +25,7 @@
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#E-R-Diagram">E-R Diagram</a></li>
+    <li><a href="#Table-Schema">E-R Diagram</a></li>
     <li><a href="#What-I-Learned">What I Learned</a></li>
   </ol>
 </details>
@@ -64,17 +65,22 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- E-R Diagram -->
+<!-- E-R DIAGRAM -->
 ## E-R Diagram
-![E-R Diagram](https://user-images.githubusercontent.com/105041834/190562307-8ca7a7f2-a35f-45dc-ac3b-c33eb2ded76f.jpg)
+![E-R Diagram](https://user-images.githubusercontent.com/105041834/190562307-8ca7a7f2-a35f-45dc-ac3b-c33eb2ded76f.jpg)  
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Functions -->
+## Functions
 
 <!-- WHAT I LEARNED -->
-## Acknowledgments
+## What I Learned
 
-* []()
-* []()
-* []()
+- DB modeling
+  - 처음부터 끝까지 DB의 설계, 구현 과정에서 SQL을 다루는 능력, 
+  - 
+  - 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
