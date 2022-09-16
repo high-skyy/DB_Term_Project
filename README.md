@@ -41,8 +41,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-### Built With
+<!-- BUILT WITH -->
+## Built With
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
