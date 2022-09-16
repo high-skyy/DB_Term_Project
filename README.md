@@ -24,7 +24,7 @@
     <li><a href="#Brief-Overview">Brief Overview</a>
     <li><a href="#built-with">Built With</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#E--R-Diagram">E-R Diagram</a></li>
+    <li><a href="#E-R-Diagram">E-R Diagram</a></li>
     <li><a href="#What-I-Learned">What I Learned</a></li>
   </ol>
 </details>
