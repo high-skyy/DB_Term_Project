@@ -89,6 +89,7 @@ A brief explanation of the source code per php file
 Relation meta data
 <details>
 <summary>Details</summary>
+
 ![song](https://user-images.githubusercontent.com/105041834/202249861-65b6d226-b2aa-49e4-92a4-c6694a28ffcd.png)
 ![playlist](https://user-images.githubusercontent.com/105041834/202249865-cf298633-e0f6-483d-83f7-13382121aa09.png)
 ![play_song_list](https://user-images.githubusercontent.com/105041834/202249869-1e18895e-b713-4125-a007-d8a5a60f964d.png)
@@ -96,6 +97,7 @@ Relation meta data
 ![customer](https://user-images.githubusercontent.com/105041834/202249878-3db7ead0-41b1-450e-bb1e-69dffcebfdf9.png)
 ![chart](https://user-images.githubusercontent.com/105041834/202249881-0308e5c3-d3e8-4ce7-a59d-b36afa263f3c.png)
 ![chart_song_list](https://user-images.githubusercontent.com/105041834/202249883-3fe3b2f8-5455-4676-97e1-7643b81fa98f.png)
+  
 </details>
 
 <!-- Transaction atomicity -->
