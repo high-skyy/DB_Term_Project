@@ -37,7 +37,7 @@
 
 
 <!-- Brief Overview -->
-## Brief 
+## Brief Overview
 ### Web database application system
 An application that provides a service in which popular songs are recommended and could save and edit playlists.
 
