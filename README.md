@@ -26,7 +26,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#E-R-Diagram">E-R Diagram</a></li>
     <li><a href="#Source-Code-Summary-Manual">Source Code Summary Manual</a></li>
-    <li><a href="#relation-manual">Relation Manual</a></li>
+    <li><a href="#relation-table-manual">Relation Table Manual</a></li>
     <li><a href="#Table-Schema">Table Schema</a></li>
     <li><a href="#transaction-atomicity">Transaction Atomicity</a></li>
     <li><a href="#transaction-isolation-level">Transaction Isolation Level</a></li>
@@ -85,7 +85,7 @@ A brief explanation of the source code per php file
 </details>
 
 <!-- Relation Manual -->
-## Relation Manual
+## Relation Table Manual
 Relation meta data
 <details>
 <summary>Details</summary>
