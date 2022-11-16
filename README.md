@@ -140,10 +140,15 @@ Selection of isolation level per table.
 <!-- WHAT I LEARNED -->
 ## What I Learned
 
-- DB modeling
-  - 처음부터 끝까지 DB의 설계, 구현 과정에서 SQL을 다루는 능력, 
-  - 
-  - 
+- Programming skills
+The DB term project was the first time I made an application. The experience of implementing an application made me have a more clear view of how an application is really implemented. When I started this project C++ was the only language that I have experienced. It was the first time I actually used another language. Programming with another language was quite uncomfortable but after learning more about PHP I realized that it was quite similar to C++. For example, if, for had the same functionality. As a result this term project gave me confidence in my programming skills.
+
+- How to design relations in the Database and use the Database
+Through the term project I had to consider many things when designing the relations. For example, the primary key, foreign key, attribute types, etc. Through the whole process of making an E-R diagram and the implementation of the relation in the database I learned how to design relations and use the database.
+
+- Basic knowledge
+When I first started the project I wasn't familiar with any protocols but after using the POST, GET method in the HTTP protocol I learned basic knowledge of how to communicate through the network. After the implementation of relations in the database I got much more familiar with the SQL. By setting isolation levels of the database I learned how to control concurrent transactions in the database. Furthermore, I learned how to handle unsuccessful and successful transactions with rollback and commit.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
