@@ -78,8 +78,10 @@ An application that provides a service in which popular songs are recommended an
 A brief explanation of the source code per php file
 <details>
 <summary>Details</summary>
+  
 ![source code manual](https://user-images.githubusercontent.com/105041834/202246588-ef4ebe6a-3b75-4704-8b9b-7b0e6a094a9d.JPG)
 ![source code manual_2](https://user-images.githubusercontent.com/105041834/202246593-ec0d0ece-29da-40b1-8581-3900bb7cd7f7.JPG)
+  
 </details>
 
 <!-- Relation Manual -->
