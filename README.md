@@ -49,7 +49,6 @@ An application that provides a service in which popular songs are recommended an
 
 * <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 * <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
-* <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
