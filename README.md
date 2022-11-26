@@ -102,7 +102,7 @@ Relation meta data
 
 <!-- Transaction atomicity -->
 ## Transaction Atomicity
-Transaction Atomicity was preserved using rollback and commit.
+Transaction atomicity was preserved using rollback and commit.
 <details>
 <summary>Example</summary>
 
@@ -142,15 +142,15 @@ Selection of isolation level per table.
 
 - Programming skills
 
-The DB term project was the first time I made an application. The experience of implementing an application made me have a more clear view of how an application is really implemented. When I started this project C++ was the only language that I have experienced. It was the first time I actually used another language. Programming with another language was quite uncomfortable but after learning more about PHP I realized that it was quite similar to C++. For example, if, for had the same functionality. As a result this term project gave me confidence in my programming skills.
+The DB term project was the first time I made an application. The experience of implementing an application made me have clearer view of how an application is really implemented. When I started this project, C++ was the only language that I have experienced. It was the first time I actually used another language. Programming with another language was quite uncomfortable, but  soon after learning more about PHP, I realized that it was quite similar to C++ (e.g., if, for had the same functionality). As a result, this term project gave me some confidence in my programming skills.
 
 - How to design relations in the Database and use the Database
 
-Through the term project I had to consider many things when designing the relations. For example, the primary key, foreign key, attribute types, etc. Through the whole process of making an E-R diagram and the implementation of the relation in the database I learned how to design relations and use the database.
+Through the term project, I had to consider many things when designing the relations (e.g., the primary key, foreign key, attribute types, etc.). Through the whole process of making an E-R diagram and the implementation of the relation in the database, I also learned how to design relations and use the database.
 
 - Basic knowledge
 
-When I first started the project I wasn't familiar with any protocols but after using the POST, GET method in the HTTP protocol I learned basic knowledge of how to communicate through the network. After the implementation of relations in the database I got much more familiar with the SQL. By setting isolation levels of the database I learned how to control concurrent transactions in the database. Furthermore, I learned how to handle unsuccessful and successful transactions with rollback and commit.
+When I first started the project I wasn't familiar with any protocols. But, after using the POST, GET method in the HTTP protocol, I learned basic knowledge of how to communicate through the network. After the implementation of relations in the database I got much more familiar with the SQL. In addition, I got a change to learn how to control concurrent transaction in the database by setting isolation levels of the database. Furthermore, I also learned how to handle unsuccessful and successful transactions with rollback and commit.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
